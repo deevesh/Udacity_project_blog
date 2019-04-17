@@ -24,7 +24,7 @@ The notebook has the work done during  the analysis of the data.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](....) available
+The main findings of the code can be found at the [post](https://medium.com/@deevesh/insights-from-fifa-2019-player-data-set-cdcfc9304bda) available
 
 
 
